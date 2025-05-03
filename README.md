@@ -1,2 +1,2 @@
 # Attention-Biaes-in-LLM
-CSCI566 Project
+USC CSCI566 Project
